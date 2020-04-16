@@ -1,0 +1,1 @@
+<?php ___e('Apply this code')?> <a href="<?php e(FULL_BASE_URL)?>/users/forget_password/?code=<?php e($code)?>"><?php e(FULL_BASE_URL)?>/users/forget_password/?code=<?php e($code)?></a>

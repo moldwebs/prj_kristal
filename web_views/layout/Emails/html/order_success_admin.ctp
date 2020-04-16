@@ -1,0 +1,1 @@
+<?php ___e('You have new order with ID')?>: <?php e($order_id)?>

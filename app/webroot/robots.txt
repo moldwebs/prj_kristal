@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /*.js
+Allow: /*.css
+Allow: /*.jpg
+Allow: /*.png
+Sitemap:  http://rozetka.ro/catalog/sitemap/index
+
+Disallow: /shop/basket
+Disallow: /rus/search/
+Disallow: /rom/search/
+Disallow: /search/

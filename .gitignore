@@ -1,0 +1,50 @@
+/app/tmp/cache/models/*
+/app/tmp/cache/persistent/*
+/app/tmp/cache/views/*
+
+/app/tmp/sessions/*
+/app/tmp/tests/*
+/app/tmp/logs/*
+
+/app/tmp/cache/hour/*
+/app/tmp/cache/req_act/*
+/app/tmp/cache/query/*
+/app/tmp/cache/settings/*
+/app/tmp/cache/translates/*
+
+/web_views/attachments/download/*
+/web_views/attachments/uploads/*
+
+#/web_views/template/*
+#!/web_views/template/.htaccess
+
+/web_config/database.php
+/web_config/email.php
+/web_config/config.php
+
+*.bak
+
+### Windows ###
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
+
+# Dump file
+*.stackdump
+
+# Folder config file
+[Dd]esktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk

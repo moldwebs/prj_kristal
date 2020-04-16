@@ -1,0 +1,5 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteRule ^(.*)$ /app/webroot/get_images.php?get_image=$1 [QSA,L]
+    #RewriteRule ^(.*)$ http://yaki.wrk.webs.md/get_images.php?get_image=$1 [QSA,L]
+</IfModule>

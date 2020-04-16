@@ -1,0 +1,1 @@
+<?php ___e('Shipping status of order %s was changed to %s', array($order_id, ___($status)))?>.
